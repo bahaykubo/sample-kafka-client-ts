@@ -1,0 +1,33 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/junit/*
+/libpeerconnection.log
+npm-debug.log
+debug.log
+yarn-error.log
+testem.log
+/typings
+/artifacts
+/data
